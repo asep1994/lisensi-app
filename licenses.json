@@ -1,5 +1,6 @@
 [
   { "email": "user1@example.com", "hostname": "DESKTOP-NVDJF6D", "expired": "2025-12-31", "active": true },
   { "email": "user2@example.com", "hostname": "LAPTOP-BUDI",  "expired": "2025-08-31", "active": true },
-  { "email": "atepmubarok00@gmail.com", "hostname": "DESKTOP-VUSETJA",  "expired": "2025-08-31", "active": true }
+  { "email": "atepmubarok00@gmail.com", "hostname": "DESKTOP-VUSETJA",  "expired": "2025-08-31", "active": true },
+  { "email": "anjaianjaini20@gmail.com", "hostname": "DESKTOP-FIPEPNK",  "expired": "2025-08-31", "active": true }
 ]
